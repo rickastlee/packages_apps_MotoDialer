@@ -487,7 +487,7 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff008547</color>
-    <color name="material_divider_color">#00000000</color>
+    <color name="material_divider_color">@android:color/black</color>
     <color name="material_dynamic_neutral0">@color/m3_ref_palette_dynamic_neutral0</color>
     <color name="material_dynamic_neutral10">@color/m3_ref_palette_dynamic_neutral10</color>
     <color name="material_dynamic_neutral100">@color/m3_ref_palette_dynamic_neutral100</color>
@@ -571,7 +571,7 @@
     <color name="mtrl_textinput_default_box_stroke_color">#6b000000</color>
     <color name="mtrl_textinput_disabled_color">#1f000000</color>
     <color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
-    <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
+    <color name="mtrl_textinput_focused_box_stroke_color">@android:color/black</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="normal_call_btn_color">@color/lake_n2_600</color>
     <color name="notification_action_accept">@color/prc_positive_green</color>
@@ -657,7 +657,7 @@
     <color name="prc_text_Third_color">#61000000</color>
     <color name="prc_text_primary_color">#ff3c4043</color>
     <color name="prc_text_secondary_color">#ff455a64</color>
-    <color name="prc_transparent">#00000000</color>
+    <color name="prc_transparent">@android:color/black</color>
     <color name="prc_turn_off_thumb_color">@color/lake_n2_300</color>
     <color name="prc_turn_off_track_color">@color/lake_n2_500</color>
     <color name="prc_turn_on_thumb_color">#ffcfd8dc</color>
@@ -719,7 +719,7 @@
     <color name="verified_caller_text_color">#ff06844d</color>
     <color name="video_call_capable_color">#ff4caf50</color>
     <color name="videocall_diapad_bg">#4d000000</color>
-    <color name="videocall_overlay_background_color">#00000000</color>
+    <color name="videocall_overlay_background_color">@android:color/black</color>
     <color name="voicemail_icon_disabled_tint">#80000000</color>
     <color name="voicemail_pause_icon_tint">?colorAccent</color>
     <color name="voicemail_play_icon_tint">?colorIcon</color>
@@ -731,7 +731,7 @@
     <color name="zxing_possible_result_points">#c0ffbd21</color>
     <color name="zxing_result_view">#b0000000</color>
     <color name="zxing_status_text">@android:color/white</color>
-    <color name="zxing_transparent">#00000000</color>
+    <color name="zxing_transparent">@android:color/black</color>
     <color name="zxing_viewfinder_laser">#ffcc0000</color>
     <color name="zxing_viewfinder_mask">#60000000</color>
 </resources>
