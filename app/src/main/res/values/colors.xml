@@ -38,7 +38,7 @@
     <color name="bubble_checkable_button_background">@color/bubble_primary</color>
     <color name="bubble_end_call_background">#ffd93025</color>
     <color name="bubble_end_call_text">@color/bubble_active_text</color>
-    <color name="bubble_highlight_item">#ff78909c</color>
+    <color name="bubble_highlight_item">#ffffffff</color>
     <color name="bubble_menu_color">@color/bubble_active_text</color>
     <color name="bubble_primary">#ffffffff</color>
     <color name="bubble_primary_background">#ffffffff</color>
