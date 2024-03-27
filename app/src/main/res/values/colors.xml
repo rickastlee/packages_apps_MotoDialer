@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  note: it seems some colors would show on xml but can't be used in dialer, maybe resource issue so I used colors already present in the default xml
+  note 2: Don't use dark mode while checking colors in xml, some will show diff colors
+  note 3: commented previous color, no of replacements (I always used replace all for now)
+-->
 <resources>
-	<!-- note:  it seems some colors would show on xml but can't be used in dialer ,maybe resource issue so i used colors already presented on default xml-->
- 	<!-- note 2: Don't use dark mode while checking colors on xml ,some will shows diff colors-->
-  	<!-- note 3: commented previous color,no of replacements (i always used replace all for now)-->
- 	
     <color name="DO_NOT_USE_OR_I_WILL_BREAK_YOU_text_span_tertiary_button">#ff1a73e8</color>
     <color name="abc_decor_view_status_guard">#ff000000</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
