@@ -26,7 +26,7 @@
     <color name="avator_background_color">@android:color/system_neutral1_50</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
-    <color name="background_item_grey_pressed">@color/background_light_gray</color><!-- #ffcfd8dc 10r dialpad light bg-->
+    <color name="background_item_grey_pressed">@android:color/white</color><!-- #ffcfd8dc 10r dialpad light bg-->
     <color name="background_material_dark">#ff455a64</color>
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="block_report_spam_primary_text_color">#de000000</color>
